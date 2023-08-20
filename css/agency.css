@@ -618,6 +618,17 @@ section#ljudfiler {
   background-size: cover;
   }
 
+  section#manualer {
+    background-image: url("../img/sand.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
 section#KBT {
   background-image: url("../img/chestnut.jpg");
   background-repeat: no-repeat;
